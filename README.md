@@ -20,7 +20,7 @@ A base de dados é um ficheiro SQLite (`hackerschool.db`) criado automaticamente
 
 ```bash
 git clone <https://github.com/HackerSchool/HS-API-Simple.git>
-cd HS-API
+cd HS-API-Simple
 ```
 
 ### Com uv (recomendado)
